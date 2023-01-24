@@ -1,0 +1,12 @@
+{
+  "name": "div_textarea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server public --port=4000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
